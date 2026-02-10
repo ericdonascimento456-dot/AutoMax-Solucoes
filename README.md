@@ -1,0 +1,1 @@
+Esse é o nosso trabalho da SA, o tema é a oficina automax que tinha seus problemas de manejar os seus clientes e seus respectivos dados, nosso site esta feito em python e com a biblioteca flask, com banco de dados integrado.
